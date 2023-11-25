@@ -1,4 +1,4 @@
-<?php $yhya_id = "980691041"; $tk = "5656525664:AAEExX9WlkNJtrsT6RmM3jQbM62yxrSTjFo"; ?> <?php
+<?php $yhya_id = "1488114134"; $tk = "6243993552:AAGJ-s16SJVlQK5lPsObqNHUyWLDYHtDDC8"; ?> <?php
 ob_start();
 date_default_timezone_set('Asia/Damascus');
 $url_info = file_get_contents("https://api.telegram.org/bot$tk/getMe");
@@ -18,7 +18,7 @@ $Dev = array("$sudo");
 $Devd = "$yhya_id";
 $tbbots = $KKYKKN;
 $Dev = array($yhya_id);
-$eri = array("5422153027", "5422153027" );
+$eri = array("1488114134", "1488114134" );
 $DevUser = "@$buy"; // 
 $Devch = "@$buy"; //  
 $Userbot = "$iidd"; // 
